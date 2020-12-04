@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-military</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-military">
+            <g id="Group-12" fill-rule="nonzero" fill-opacity="0.01" fill="#FFFFFF">
+                <g id="Group-11">
+                    <g id="Group-10">
+                        <g id="Group-9">
+                            <g id="Group-8">
+                                <g id="Group-7">
+                                    <g id="Group-6">
+                                        <g id="Group-3">
+                                            <g id="Group-5">
+                                                <g id="Group-4">
+                                                    <g id="Group-2">
+                                                        <g id="Group">
+                                                            <rect id="Rectangle" style="mix-blend-mode: overlay;" x="0" y="0" width="100" height="100"></rect>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Page-1" transform="translate(36.000000, 19.000000)" stroke-width="3" stroke="#000000">
+                <polyline id="Stroke-1" points="10.0005896 4.02205833 10.0005896 26.0554125 2.77113125 12.2725583 2.77113125 0.302204167 26.4296937 0.302204167 26.4296937 12.2725583 19.2014437 26.0554125 19.2014437 4.02205833"></polyline>
+                <path d="M28.8991042,43.5743729 C28.8991042,51.4714354 22.4973542,57.8731854 14.6008958,57.8731854 C6.70383333,57.8731854 0.302083333,51.4714354 0.302083333,43.5743729 C0.302083333,35.6779146 6.70383333,29.2761646 14.6008958,29.2761646 C22.4973542,29.2761646 28.8991042,35.6779146 28.8991042,43.5743729 Z" id="Stroke-3"></path>
+                <polygon id="Stroke-5" points="14.6008354 36.5780625 16.3372104 41.923125 21.9571687 41.923125 17.4108146 45.2255 19.1471896 50.5705625 14.6008354 47.2669792 10.0544812 50.5705625 11.7914604 45.2255 7.24450208 41.923125 12.8644604 41.923125"></polygon>
+                <path d="M14.6008354,26.1744937 L14.6008354,13.2858062" id="Stroke-7"></path>
+                <path d="M14.6008354,10.5664521 L14.6008354,7.24413958" id="Stroke-9"></path>
+            </g>
+        </g>
+    </g>
+</svg>
